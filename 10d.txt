@@ -1,0 +1,42 @@
+the average of x is -3.909058671705008e+00
+the average of x is -2.909001558070639e+00
+the average of x is -1.909056062102471e+00
+the average of x is -9.090916410773779e-01
+the average of x is 9.092618563745494e-02
+the average of x is 1.090916471467342e+00
+the average of x is 2.090808217016923e+00
+the average of x is 3.090929826103812e+00
+the average of x is 4.090811008413836e+00
+the average of x is 5.090950930379885e+00
+the variance of x is 7.723601065504536e-08
+the variance of x is 1.110580345566422e-07
+the variance of x is 1.433110320764234e-07
+the variance of x is 1.026700749333171e-07
+the variance of x is 1.526859129839286e-07
+the variance of x is 9.288191473996458e-08
+the variance of x is 1.004858688136903e-07
+the variance of x is 1.733920642270042e-07
+the variance of x is 1.171512962878238e-07
+the variance of x is 9.418543003476234e-08
+the error bar of x is 2.779136748255569e-04
+the error bar of x is 3.332537089915763e-04
+the error bar of x is 3.785644358315020e-04
+the error bar of x is 3.204217142038240e-04
+the error bar of x is 3.907504484756589e-04
+the error bar of x is 3.047653437318039e-04
+the error bar of x is 3.169950611818586e-04
+the error bar of x is 4.164037274412948e-04
+the error bar of x is 3.422737154498192e-04
+the error bar of x is 3.068964483905970e-04
+the average of f is -5.995454476914782e+01
+the variance of f is 1.052146406225276e-12
+the error bar of f is 1.025741880896591e-06
+the average of times of evaluation is 3.766000000000000e+01
+the variance of times of evaluation is 1.055551020408165e+01
+the error bar of times of evaluation is 3.248924468817588e+00
+the average of running time is 1.070032960000000e-03
+the variance of running time is 1.231619245437795e-06
+the error bar of running time is 1.109783422762205e-03
+the average of relative distance is 4.545523085217084e-02
+the variance of relative distance is 1.052146406225276e-12
+the error bar of relative distance is 1.025741880896591e-06
